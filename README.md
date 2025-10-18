@@ -15,8 +15,8 @@ The goal is to explore how long it takes different city agencies to respond to c
 Python • pandas • matplotlib • scikit-learn • Google Colab
 
 ## View the Notebook
-[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joshualhwhite/nyc-311-analysis/blob/main/nyc_311_response_analysis.ipynb)
-](https://colab.research.google.com/drive/1g34rv_C_WZ5KX5iU46XgDF0tLZwmZXrb#scrollTo=78PmcRxb9Yri)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joshualhwhite/nyc-311-analysis/blob/main/nyc_311_response_analysis.ipynb)
+
 ---
 
 *Built as a portfolio project to showcase real-world data analysis with Python.*
